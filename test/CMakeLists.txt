@@ -5,5 +5,11 @@ include_directories(
 
 add_executable(
   Tester
+  Contract.cpp
   tester.cpp
+)
+
+target_link_libraries(
+  Tester
+  Contract
 )
