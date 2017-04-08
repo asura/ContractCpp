@@ -19,7 +19,6 @@ install:
     else
       brew upgrade cmake || brew install cmake
     fi
-  - cmake --version
 script:
   - cd $TRAVIS_BUILD_DIR && mkdir build && cd build
   - cmake .. && make && ./test/Tester

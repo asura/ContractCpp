@@ -1,6 +1,6 @@
 # ContractsCpp
 『契約による設計』のC++版試作
 
-[![Build Status](https://travis-ci.org/asura/ContractsCpp.svg?branch=master)](https://travis-ci.org/asura/ContractsCpp)
-[![Build status](https://ci.appveyor.com/api/projects/status/m7hhwa9g0r0osgkt?svg=true)](https://ci.appveyor.com/project/asura/contractscpp)
-[![Doxygen documents](https://codedocs.xyz/asura/ContractsCpp.svg)](https://codedocs.xyz/asura/ContractsCpp/index.html)
+[![Build Status](https://travis-ci.org/asura/ContractCpp.svg?branch=master)](https://travis-ci.org/asura/ContractCpp)
+[![Build status](https://ci.appveyor.com/api/projects/status/siuw57hlki8594s8?svg=true)](https://ci.appveyor.com/project/asura/contractcpp)
+[![Doxygen documents](https://codedocs.xyz/asura/ContractCpp.svg)](https://codedocs.xyz/asura/ContractsCpp/index.html)
